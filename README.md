@@ -1,5 +1,5 @@
 
-#Dự án cá nhân thương mại điện tử 
+#Dự án cá nhân thương mại điện tử (Đang phát triển)
 
 ## Công nghệ sử dụng
 - Backend: C#, .NET Core, Entity Framework
